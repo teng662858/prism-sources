@@ -1,0 +1,12 @@
+{
+  "name": "Prism Sources",
+  "sources": [
+    {
+      "id": "remote-demo",
+      "name": "远程示例",
+      "version": "1.0.0",
+      "type": "novel",
+      "url": "https://raw.githubusercontent.com/teng662858/prism-sources/main/remote-demo.js"
+    }
+  ]
+}
