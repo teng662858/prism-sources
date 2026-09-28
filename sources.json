@@ -7,6 +7,13 @@
       "version": "1.0.0",
       "type": "novel",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/teng662858/prism-sources/main/remote-demo.js"
+    },
+    {
+      "id": "dbku",
+      "name": "独播库",
+      "version": "1.0.0",
+      "type": "video",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/teng662858/prism-sources/main/dbku.js"
     }
   ]
 }
