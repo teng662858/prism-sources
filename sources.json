@@ -6,7 +6,7 @@
       "name": "远程示例",
       "version": "1.0.0",
       "type": "novel",
-      "url": "https://cdn.jsdelivr.net/gh/teng662858/prism-sources@main/remote-demo.js"
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/teng662858/prism-sources/main/remote-demo.js"
     }
   ]
 }
